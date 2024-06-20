@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>JOSAPHATNGANDU | WDD 130</title>
+  </head>
+  <body>
+       <header>
+        <nav>
+            <a href="#">Home</a>
+            <a href="wwr/">Rafting Site Plan</a>
+            <a href="wwr/site-plan-rafting.html">Rafting Website</a>
+        </nav>
+        </header>
+        <main>
+<h1>JOSAPHATNGANDU | WDD 130</h1>
+<img src="images/profile.jpg" alt="Hello, my name is JOSAPHAT NGANDU" width="200">
+<p>Hello! My name is JOSAPHAT NGANDU and I am from congo, kinshasa. I enjoy </p>
+        </main>
+        <footer>
+<p>
+ ©2024   JOSAPHATNGANDU congo, kinshasa
+</p>
+        </footer>
+  </body>
+</html>
