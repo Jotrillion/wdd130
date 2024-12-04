@@ -1,0 +1,58 @@
+
+:root {
+    --primary-color: #3A0CA3;  /* Blue */ 
+    --secondary-color: #7209B7; /* purple*/ 
+    --text-color: #011627;        /* Black */
+  }
+  
+  /* Headings */
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--primary-color);
+    font-family: "Times new roman", sans-serif; 
+    margin-bottom: 1.5rem;
+  }
+  
+  /* Paragraphs */
+  p {
+    color: var(--text-color);
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+  }
+  
+  /* Social Media Links */
+  .sociallinks a {
+    text-decoration: none; 
+    margin-right: 10px;
+  }
+
+  .hero {
+    position: relative;
+  }
+  
+  .hero img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  .hero h1 {
+    position: absolute;
+     
+
+  
+    
+  }
+  
+  .hero article {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background-color: rgba(255, 255, 255, 0.904); /* Adjust opacity and color as needed */
+    padding: 20px;
+  }
+  
+  .hero article img {
+    float: right;
+    
+  }
