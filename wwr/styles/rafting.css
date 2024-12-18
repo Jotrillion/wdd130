@@ -218,6 +218,18 @@ nav a:hover {
    grid-gap: 20px;
  }
 
+.grid-three-columns {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  /* Three equal-width columns */
+  grid-gap: 20px;
+}
+
+.trip {
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
 main {
   padding: 20px;
 }
